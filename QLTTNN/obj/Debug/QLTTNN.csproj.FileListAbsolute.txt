@@ -1,0 +1,72 @@
+E:\win2022\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe.config
+E:\win2022\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe
+E:\win2022\QLTTNN\QLTTNN\bin\Debug\QLTTNN.pdb
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.AssemblyReference.cache
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.SuggestedBindingRedirects.cache
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmMain.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmDangNhap.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.Properties.Resources.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.GenerateResource.cache
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.CoreCompileInputs.cache
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.exe
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.pdb
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmHocVien.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmLop.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNhatKy.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateHocVien.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmBangCap.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmChucNang.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmGiaoVien.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNgoaiNgu.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNguoiDung.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateGiaoVien.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemGiaoVien.resources
+E:\win2022\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemHocVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe.config
+D:\nopbtl\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe
+D:\nopbtl\QLTTNN\QLTTNN\bin\Debug\QLTTNN.pdb
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.AssemblyReference.cache
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.SuggestedBindingRedirects.cache
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemGiaoVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemHocVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmBangCap.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmChucNang.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmDangNhap.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmGiaoVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmHocVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmLop.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmMain.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNgoaiNgu.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNhatKy.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNguoiDung.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateGiaoVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateHocVien.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.Properties.Resources.resources
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.GenerateResource.cache
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.CoreCompileInputs.cache
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.exe
+D:\nopbtl\QLTTNN\QLTTNN\obj\Debug\QLTTNN.pdb
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe.config
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\bin\Debug\QLTTNN.exe
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\bin\Debug\QLTTNN.pdb
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.AssemblyReference.cache
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.SuggestedBindingRedirects.cache
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemGiaoVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmThemHocVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmBangCap.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmChucNang.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmDangNhap.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmGiaoVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmHocVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmLop.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmMain.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNgoaiNgu.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNhatKy.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmNguoiDung.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateGiaoVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.frmUpdateHocVien.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.Properties.Resources.resources
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.GenerateResource.cache
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.csproj.CoreCompileInputs.cache
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.exe
+C:\Users\nxhoa\Documents\Zalo Received Files\QLTTNN\QLTTNN\QLTTNN\obj\Debug\QLTTNN.pdb
